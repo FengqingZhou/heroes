@@ -1,3 +1,4 @@
+theme:mima
 # This is CISC 322 Pages
 
 > Project for CISC 322 - Bitcoin core development.
